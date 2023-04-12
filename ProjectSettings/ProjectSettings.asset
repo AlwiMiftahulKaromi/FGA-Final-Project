@@ -880,7 +880,7 @@ PlayerSettings:
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
   useDeterministicCompilation: 1
-  selectedPlatform: 0
+  selectedPlatform: 2
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
   gcIncremental: 0
@@ -973,10 +973,10 @@ PlayerSettings:
       PointOfService: False
       RecordedCallsFolder: False
       Contacts: False
+      Proximity: False
       InternetClient: True
       CodeGeneration: False
       BackgroundMediaPlayback: False
-      Proximity: False
   metroTargetDeviceFamilies:
     Desktop: False
     Holographic: False
